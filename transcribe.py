@@ -1,7 +1,6 @@
 import os, re
 from openai import OpenAI
 from pydub import AudioSegment
-from docx import Document
 
 # Retrieve the API key from the environment variable
 api_key = os.getenv('OPENAI_API_KEY')
