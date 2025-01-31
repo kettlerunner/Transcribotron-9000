@@ -15,7 +15,6 @@ This script transcribes audio files (MP3 format) using OpenAI's Whisper model. I
 - Required Python packages:
   - `openai`
   - `pydub`
-  - `python-docx`
 
 ## Installation
 1. Clone or download this repository.
